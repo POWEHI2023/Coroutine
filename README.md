@@ -1,2 +1,2 @@
-# Corouting
-SDK of C++ Corouting: self used
+# Coroutine
+SDK of C++ Coroutine: self used
